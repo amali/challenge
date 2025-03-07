@@ -269,7 +269,16 @@ Creative Commons Attribution-NonCommercial (CC BY-NC)
 For questions use the following contact email:  
 Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 
+## Organizers 
 
+- **Ali Alhejab - SDAIA, Riyadh, Saudi Arabia **
+- **Lamya Alkanhal - SDAIA, Riyadh, Saudi Arabia **
+- **Tomas Zelezny - University of West Bohemia, Pilsen **
+- **Jakub Straka - University of West Bohemia, Pilsen **
+- **Badria Almutaani- SDAIA, Riyadh, Saudi Arabia **
+- **Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia **
+- **Ahmed Ali - SDAIA, Riyadh, Saudi Arabia **
+  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
